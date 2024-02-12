@@ -2,6 +2,10 @@
 
 *A convenience and extendability focused mod loader using NuGet packages.*
 
+> [!WARNING]  
+> The main MonkeyLoader project is now maintained on the 'MonkeyModdingTroop' organization [here](https://github.com/MonkeyModdingTroop/MonkeyLoader).  
+> The Resonite Integration is now maintained on the 'ResoniteModdingGroup' organization [here](https://github.com/ResoniteModdingGroup/MonkeyLoader.GamePacks.Resonite)
+
 ## What's this?
 
 MonkeyLoader is a mod loader that aims to combine easy usability for developers and users,
